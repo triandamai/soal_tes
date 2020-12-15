@@ -1,4 +1,4 @@
-### 👋
+### Hai, Selamat datang👋
 
 Selesaikan Studi Kasus Berikut
 
@@ -70,6 +70,7 @@ Ketentuan:
 - Setiap karyawan mendapatkan tunjangan apabila memiliki anak dan sudah menikah
 - Tunjangan didapatkan dari tabel diatas dikalikan dengan jumlah anak
 - Maksimal jumlah anak yang mendapatkan tunjangan 2
+- Program tidak harus sama dengan contoh
 
 Contoh Input:
 
@@ -85,3 +86,4 @@ Jumlah Anak ? (1,2,3... dst) = ....
 
 
 ```
+Selamat mengerjakan 💡
