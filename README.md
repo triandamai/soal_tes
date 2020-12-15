@@ -5,7 +5,7 @@ Selesaikan Studi Kasus Berikut
 1.Implementasikan interface `onTemperatureState` ke `class` CekSuhu
 
 ```java
-  /**
+    /**
     *
     * @author Kaila Indonesia
     */
