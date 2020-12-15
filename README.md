@@ -69,21 +69,23 @@ Ketentuan:
 
 - Setiap karyawan mendapatkan tunjangan apabila memiliki anak dan sudah menikah
 - Tunjangan didapatkan dari tabel diatas dikalikan dengan jumlah anak
-- Maksimal jumlah anak yang mendapatkan tunjangan 2
+- Maksimal jumlah anak yang mendapatkan tunjangan 2 orang anak
 - Program tidak harus sama dengan contoh
 
 Contoh Input:
 
 ```
-====== PERHITUNGAN GAJI KARYAWAN =====
+====== PERHITUNGAN GAJI KARYAWAN ======
 
 
 Masukkan Nama Pegawai = ....
 Masukkan Golongan = ....
-Apakah Sudah Menikah ? (Y,N) = ...
+Apakah Sudah Menikah ? (Y,N) = ....
 Jumlah Anak ? (1,2,3... dst) = ....
 
 
 
+
 ```
+
 Selamat mengerjakan 💡
